@@ -31,9 +31,11 @@ A simple RESTful Student Management System built using **Spring Boot**, **Spring
 
 ![b629860957b44148bf4471584a2f654e](https://github.com/user-attachments/assets/e5edf514-edba-4c91-ba9b-e06cbdc3417c)
 
+
 2) **Get All Students**
 
 ![7b0f2dbcbc924936a000c92069e10048](https://github.com/user-attachments/assets/42969a6f-1a78-4211-9f80-c94bdf601feb)
+
 
 3) **Get Student By ID**
 
